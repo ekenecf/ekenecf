@@ -1,16 +1,15 @@
-### Hi there 👋
+## Hi there, I am Nwachukwu Ekene - currently Microverse's Student👋
 
-<!--
-**ekenecf/ekenecf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a software Developer!!
 
-Here are some ideas to get you started:
+- 🔭 I’m currently a full time student at Microverse Inc.
+- 🌱 I’m currently learning everything 
+- 👯 I’m looking to collaborate on JavaScript, React and Ruby on Rails Projects.
+- 🥅 2022 Goals: To gain more experience and grow
+- ⚡ Fun fact: I love travelling and networking and not forgetting chess 🤣
+- 📫 Reach me on ekens2u@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect with me:
+- [@twitterhandle](https://twitter.com/ekene070)
+- [LinkedIn](https://linkedin.com/in/EkeneNwachukwu)
+- [Facebook](https://web.facebook.com/ekenae.nwachukwu/)
