@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning everything 
 - 👯 I’m looking to collaborate on JavaScript, React and Ruby on Rails Projects.
 - 🥅 2022 Goals: To gain more experience and grow
-- ⚡ Fun fact: I love travelling and networking and not forgetting chess 🤣
+- ⚡ Fun fact: I love travelling, networking and not forgetting chess 🤣
 - 📫 Reach me on ekens2u@gmail.com
 
 ## Connect with me:
