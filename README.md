@@ -11,5 +11,5 @@
 
 ## Connect with me:
 - [@twitterhandle](https://twitter.com/ekene070)
-- [LinkedIn](https://linkedin.com/in/EkeneNwachukwu)
+- [LinkedIn](https://www.linkedin.com/in/ekene-nwachukwu-1b9024153/)
 - [Facebook](https://web.facebook.com/ekenae.nwachukwu/)
