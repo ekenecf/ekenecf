@@ -3,7 +3,7 @@
 ## I'm a software Developer!!
 
 - 🔭 I’m currently a full time student at Microverse Inc.
-- 🌱 I’m currently learning everything 
+- 🌱 I’m currently learning everything 😊
 - 👯 I’m looking to collaborate on JavaScript, React and Ruby on Rails Projects.
 - 🥅 2023 Goals: To gain more experience and grow
 - ⚡ Fun fact: I love travelling, networking and not forgetting chess 🤣
